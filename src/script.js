@@ -1,9 +1,9 @@
 function abre_login() {
-  window.open("login.html", "_blank");
+  window.open("src/login.html", "_blank");
 }
 
 function abre_cadastro() {
-  window.open("cadastrar.html", "_blank");
+  window.open("src/cadastrar.html", "_blank");
 }
 
 function enviarToken() {
